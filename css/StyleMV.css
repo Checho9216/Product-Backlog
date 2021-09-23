@@ -1,0 +1,42 @@
+/* Menu vertical */
+
+.link1 li a{
+    text-decoration: none;
+    color: #666;
+    font-family: Arial;
+}
+
+.link1 li ul li{
+    margin-left: -40px;    
+}
+
+.link2>li{
+    font-weight: 300;
+    list-style: none;
+}
+
+.link2>li>a:hover{
+    color:seagreen;
+    margin-left: 20px;
+}
+    
+.link1>li{
+    list-style: none;
+    width: 100px;
+    height: 20px;
+    overflow: hidden;
+    font-weight: 600;
+    transition: 2s;
+}
+
+.link1>li:hover{
+    height: 200px;
+}
+
+.Menu_Superior{
+    background-color: #333;
+    overflow: hidden;
+    width: 180px;
+}
+
+

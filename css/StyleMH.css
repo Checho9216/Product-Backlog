@@ -1,0 +1,42 @@
+/* CSS Menu Horizonal */
+
+.link1>li{ 
+    display: block;
+    float: left;
+    list-style: none;
+    height: 20px;
+    overflow: hidden;
+    background: #333;
+}
+
+.link1>li:hover{
+    height: auto;
+}
+
+.link2>li:hover{
+    height: auto;
+}
+
+.link2>li{ 
+    margin-left: -30px;
+    list-style: none;
+}
+
+.link2 a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.link2 a:hover{
+    color: red;
+}
+
+.link1>li>a{
+    width: 100px;
+    display: block;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background: #333;
+}

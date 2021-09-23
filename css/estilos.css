@@ -1,0 +1,32 @@
+nav {
+    background-color: red;
+    height: 10%;
+    width: 100%;
+}
+
+#horizontal_navbar{
+    background-color: rgb(97, 38, 207);
+}
+
+.link1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#irA_registro_\ usuario{
+    background-color: white;
+    text-decoration: none;
+    color: blue;
+}
+
+#boton_registro_usuario{
+    float: right;
+}
+
+#landing_logo{
+    height: 30;
+    width: 30;
+}
+
+#dato_nombre_usuario{
+    border: blue;
+}
